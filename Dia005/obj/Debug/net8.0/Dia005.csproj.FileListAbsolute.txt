@@ -1,0 +1,15 @@
+/workspaces/100-Dias-CSharp/Dia005/bin/Debug/net8.0/Dia005
+/workspaces/100-Dias-CSharp/Dia005/bin/Debug/net8.0/Dia005.deps.json
+/workspaces/100-Dias-CSharp/Dia005/bin/Debug/net8.0/Dia005.runtimeconfig.json
+/workspaces/100-Dias-CSharp/Dia005/bin/Debug/net8.0/Dia005.dll
+/workspaces/100-Dias-CSharp/Dia005/bin/Debug/net8.0/Dia005.pdb
+/workspaces/100-Dias-CSharp/Dia005/obj/Debug/net8.0/Dia005.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/100-Dias-CSharp/Dia005/obj/Debug/net8.0/Dia005.AssemblyInfoInputs.cache
+/workspaces/100-Dias-CSharp/Dia005/obj/Debug/net8.0/Dia005.AssemblyInfo.cs
+/workspaces/100-Dias-CSharp/Dia005/obj/Debug/net8.0/Dia005.csproj.CoreCompileInputs.cache
+/workspaces/100-Dias-CSharp/Dia005/obj/Debug/net8.0/Dia005.sourcelink.json
+/workspaces/100-Dias-CSharp/Dia005/obj/Debug/net8.0/Dia005.dll
+/workspaces/100-Dias-CSharp/Dia005/obj/Debug/net8.0/refint/Dia005.dll
+/workspaces/100-Dias-CSharp/Dia005/obj/Debug/net8.0/Dia005.pdb
+/workspaces/100-Dias-CSharp/Dia005/obj/Debug/net8.0/Dia005.genruntimeconfig.cache
+/workspaces/100-Dias-CSharp/Dia005/obj/Debug/net8.0/ref/Dia005.dll
