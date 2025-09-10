@@ -1,1 +1,12 @@
-# Exercício Dia 016
+# Dia 016
+
+- Enunciado: (será preenchido quando for solicitado o exercício do dia)
+- Objetivos:
+  - (listar objetivos)
+- Passo a passo:
+  - (instruções passo a passo)
+- Desafio extra:
+  - (desafio para fixação)
+
+Como executar:
+- dotnet run

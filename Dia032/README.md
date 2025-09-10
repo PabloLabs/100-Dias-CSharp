@@ -1,1 +1,12 @@
-# Exercício Dia 032
+# Dia 032
+
+- Enunciado: (será preenchido quando for solicitado o exercício do dia)
+- Objetivos:
+  - (listar objetivos)
+- Passo a passo:
+  - (instruções passo a passo)
+- Desafio extra:
+  - (desafio para fixação)
+
+Como executar:
+- dotnet run
