@@ -1,12 +1,16 @@
-# Dia 017
+# Dia 017 — Valor vs referência
 
-- Enunciado: (será preenchido quando for solicitado o exercício do dia)
+- Enunciado: Mostre diferenças usando int e List<T>.
 - Objetivos:
-  - (listar objetivos)
+  - Compreender o porquê do código e praticar passo a passo.
+  - Consolidar o tópico do dia com exemplo funcional.
 - Passo a passo:
-  - (instruções passo a passo)
+  - Leia o enunciado e planeje o que o programa precisa fazer.
+  - Edite Dia017/Dia017/Program.cs implementando a solução.
+  - Rode com: dotnet run
 - Desafio extra:
-  - (desafio para fixação)
+  - Extenda o exercício com uma pequena variação proposta por você.
 
 Como executar:
+- cd Dia017/Dia017
 - dotnet run

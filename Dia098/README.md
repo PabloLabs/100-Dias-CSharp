@@ -1,12 +1,16 @@
-# Dia 098
+# Dia 098 — Publicar single-file
 
-- Enunciado: (será preenchido quando for solicitado o exercício do dia)
+- Enunciado: API em arquivo único.
 - Objetivos:
-  - (listar objetivos)
+  - Compreender o porquê do código e praticar passo a passo.
+  - Consolidar o tópico do dia com exemplo funcional.
 - Passo a passo:
-  - (instruções passo a passo)
+  - Leia o enunciado e planeje o que o programa precisa fazer.
+  - Edite Dia098/Dia098/Program.cs implementando a solução.
+  - Rode com: dotnet run
 - Desafio extra:
-  - (desafio para fixação)
+  - Extenda o exercício com uma pequena variação proposta por você.
 
 Como executar:
+- cd Dia098/Dia098
 - dotnet run

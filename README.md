@@ -1,118 +1,105 @@
 # 100 Dias de C#
 
-Este repositório contém uma trilha fixa de 100 exercícios de C# que progride do zero ao avançado, com explicações didáticas e um desafio extra por dia.  
-Para estudar, abra a pasta do dia (Dia001…Dia100) e edite o Program.cs seguindo o enunciado publicado quando solicitar “Dia X”.
-
-## Estrutura
-- Dia001 … Dia100 — projetos de console independentes
-- Cada dia possui:
-  - Program.cs inicial
-  - README.md com espaço para enunciado, objetivos, passos e desafio
-
-## Como rodar
-- Entre na pasta do dia e execute:
-  - dotnet run
-
-Bons estudos!
+Trilha fixa de 100 exercícios de C# do zero ao avançado, com explicações didáticas e desafio extra por dia. Abra a pasta do dia (Dia001…Dia100), implemente no Program.cs e rode com dotnet run.
 
 ## Índice
-- [Dia 001](Dia001/README.md)
-- [Dia 002](Dia002/README.md)
-- [Dia 003](Dia003/README.md)
-- [Dia 004](Dia004/README.md)
-- [Dia 005](Dia005/README.md)
-- [Dia 006](Dia006/README.md)
-- [Dia 007](Dia007/README.md)
-- [Dia 008](Dia008/README.md)
-- [Dia 009](Dia009/README.md)
-- [Dia 010](Dia010/README.md)
-- [Dia 011](Dia011/README.md)
-- [Dia 012](Dia012/README.md)
-- [Dia 013](Dia013/README.md)
-- [Dia 014](Dia014/README.md)
-- [Dia 015](Dia015/README.md)
-- [Dia 016](Dia016/README.md)
-- [Dia 017](Dia017/README.md)
-- [Dia 018](Dia018/README.md)
-- [Dia 019](Dia019/README.md)
-- [Dia 020](Dia020/README.md)
-- [Dia 021](Dia021/README.md)
-- [Dia 022](Dia022/README.md)
-- [Dia 023](Dia023/README.md)
-- [Dia 024](Dia024/README.md)
-- [Dia 025](Dia025/README.md)
-- [Dia 026](Dia026/README.md)
-- [Dia 027](Dia027/README.md)
-- [Dia 028](Dia028/README.md)
-- [Dia 029](Dia029/README.md)
-- [Dia 030](Dia030/README.md)
-- [Dia 031](Dia031/README.md)
-- [Dia 032](Dia032/README.md)
-- [Dia 033](Dia033/README.md)
-- [Dia 034](Dia034/README.md)
-- [Dia 035](Dia035/README.md)
-- [Dia 036](Dia036/README.md)
-- [Dia 037](Dia037/README.md)
-- [Dia 038](Dia038/README.md)
-- [Dia 039](Dia039/README.md)
-- [Dia 040](Dia040/README.md)
-- [Dia 041](Dia041/README.md)
-- [Dia 042](Dia042/README.md)
-- [Dia 043](Dia043/README.md)
-- [Dia 044](Dia044/README.md)
-- [Dia 045](Dia045/README.md)
-- [Dia 046](Dia046/README.md)
-- [Dia 047](Dia047/README.md)
-- [Dia 048](Dia048/README.md)
-- [Dia 049](Dia049/README.md)
-- [Dia 050](Dia050/README.md)
-- [Dia 051](Dia051/README.md)
-- [Dia 052](Dia052/README.md)
-- [Dia 053](Dia053/README.md)
-- [Dia 054](Dia054/README.md)
-- [Dia 055](Dia055/README.md)
-- [Dia 056](Dia056/README.md)
-- [Dia 057](Dia057/README.md)
-- [Dia 058](Dia058/README.md)
-- [Dia 059](Dia059/README.md)
-- [Dia 060](Dia060/README.md)
-- [Dia 061](Dia061/README.md)
-- [Dia 062](Dia062/README.md)
-- [Dia 063](Dia063/README.md)
-- [Dia 064](Dia064/README.md)
-- [Dia 065](Dia065/README.md)
-- [Dia 066](Dia066/README.md)
-- [Dia 067](Dia067/README.md)
-- [Dia 068](Dia068/README.md)
-- [Dia 069](Dia069/README.md)
-- [Dia 070](Dia070/README.md)
-- [Dia 071](Dia071/README.md)
-- [Dia 072](Dia072/README.md)
-- [Dia 073](Dia073/README.md)
-- [Dia 074](Dia074/README.md)
-- [Dia 075](Dia075/README.md)
-- [Dia 076](Dia076/README.md)
-- [Dia 077](Dia077/README.md)
-- [Dia 078](Dia078/README.md)
-- [Dia 079](Dia079/README.md)
-- [Dia 080](Dia080/README.md)
-- [Dia 081](Dia081/README.md)
-- [Dia 082](Dia082/README.md)
-- [Dia 083](Dia083/README.md)
-- [Dia 084](Dia084/README.md)
-- [Dia 085](Dia085/README.md)
-- [Dia 086](Dia086/README.md)
-- [Dia 087](Dia087/README.md)
-- [Dia 088](Dia088/README.md)
-- [Dia 089](Dia089/README.md)
-- [Dia 090](Dia090/README.md)
-- [Dia 091](Dia091/README.md)
-- [Dia 092](Dia092/README.md)
-- [Dia 093](Dia093/README.md)
-- [Dia 094](Dia094/README.md)
-- [Dia 095](Dia095/README.md)
-- [Dia 096](Dia096/README.md)
-- [Dia 097](Dia097/README.md)
-- [Dia 098](Dia098/README.md)
-- [Dia 099](Dia099/README.md)
-- [Dia 100](Dia100/README.md)
+- [Dia 001 — Olá, Mundo](Dia001/README.md) — Escreva na tela "Olá, Mundo!" e execute um console app .NET.
+- [Dia 002 — Console e comentários](Dia002/README.md) — Mostre mensagens com Write/WriteLine e use comentários de linha e bloco.
+- [Dia 003 — Variáveis básicas](Dia003/README.md) — Declare int, double, string, bool e imprima seus valores.
+- [Dia 004 — Entrada e conversão](Dia004/README.md) — Leia dois números com ReadLine e some, usando int.Parse/TryParse.
+- [Dia 005 — Operadores aritméticos](Dia005/README.md) — Pratique +, -, *, /, % resolvendo média e troco simples.
+- [Dia 006 — Comparação e lógicos](Dia006/README.md) — Use ==, !=, >, <, >=, <=, &&, ||, ! em testes práticos.
+- [Dia 007 — if/else](Dia007/README.md) — Implemente regras de desconto e verificação de maioridade.
+- [Dia 008 — switch](Dia008/README.md) — Crie um menu de opções numéricas com switch.
+- [Dia 009 — while](Dia009/README.md) — Conte números e valide entrada repetindo até ficar correta.
+- [Dia 010 — for](Dia010/README.md) — Gere tabuadas e somatórios com for.
+- [Dia 011 — do/while](Dia011/README.md) — Pergunte “Deseja continuar? (S/N)” até confirmar.
+- [Dia 012 — Array 1D](Dia012/README.md) — Preencha e calcule média de um array de números.
+- [Dia 013 — Matriz 2D](Dia013/README.md) — Some linhas/colunas e imprima uma tabela.
+- [Dia 014 — List<T>](Dia014/README.md) — Adicionar, remover, buscar e ordenar números em lista.
+- [Dia 015 — Métodos](Dia015/README.md) — Crie funções com parâmetros e retorno para reutilização.
+- [Dia 016 — Sobrecarga](Dia016/README.md) — Mesmo nome, assinaturas diferentes resolvendo cálculos.
+- [Dia 017 — Valor vs referência](Dia017/README.md) — Mostre diferenças usando int e List<T>.
+- [Dia 018 — Strings](Dia018/README.md) — Concatene, interpole, Substring, Replace, Split, Trim.
+- [Dia 019 — Datas e tempos](Dia019/README.md) — Calcule idade e prazos com DateTime/TimeSpan.
+- [Dia 020 — TryParse e erros](Dia020/README.md) — Evite exceções ao converter entradas.
+- [Dia 021 — Exceções](Dia021/README.md) — try/catch/finally com mensagens amigáveis.
+- [Dia 022 — Enum](Dia022/README.md) — Estados de pedido e uso em switch.
+- [Dia 023 — Tuplas](Dia023/README.md) — Retorne múltiplos valores de um método.
+- [Dia 024 — Records](Dia024/README.md) — Crie um record DTO imutável (C# 9+).
+- [Dia 025 — OOP: classe](Dia025/README.md) — Classe Pessoa com propriedades e método Descrever.
+- [Dia 026 — Construtores](Dia026/README.md) — Inicialize objetos com validação.
+- [Dia 027 — Encapsulamento](Dia027/README.md) — get/set com validação em propriedades.
+- [Dia 028 — Estático vs instância](Dia028/README.md) — Quando usar métodos estáticos vs de instância.
+- [Dia 029 — ToString/Equals](Dia029/README.md) — Personalize representação e igualdade.
+- [Dia 030 — Coleções de objetos](Dia030/README.md) — List<Pessoa> com buscas e filtros.
+- [Dia 031 — Herança](Dia031/README.md) — Animal, Cachorro, Gato herdando comportamento.
+- [Dia 032 — Polimorfismo](Dia032/README.md) — virtual/override com comportamentos específicos.
+- [Dia 033 — Interfaces](Dia033/README.md) — INotificavel implementado por Email e SMS.
+- [Dia 034 — Abstração](Dia034/README.md) — Forma abstrata com Area(); Quadrado/Círculo.
+- [Dia 035 — Composição](Dia035/README.md) — Pedido com Itens e cálculo de total.
+- [Dia 036 — Dictionary](Dia036/README.md) — Agenda telefônica com chave/valor.
+- [Dia 037 — HashSet](Dia037/README.md) — Remova duplicatas e teste pertinência.
+- [Dia 038 — Queue/Stack](Dia038/README.md) — Simule fila e pilha de tarefas.
+- [Dia 039 — Arquivos texto](Dia039/README.md) — Ler/escrever com File e Streams.
+- [Dia 040 — Diretórios e Path](Dia040/README.md) — Criar, listar e combinar caminhos.
+- [Dia 041 — JSON salvar](Dia041/README.md) — Serializar objetos com System.Text.Json.
+- [Dia 042 — JSON carregar](Dia042/README.md) — Desserializar com tratamento de erros.
+- [Dia 043 — Regex](Dia043/README.md) — Valide e-mail simples e CEP.
+- [Dia 044 — LINQ básico](Dia044/README.md) — Where, Select, OrderBy em listas.
+- [Dia 045 — LINQ avançado](Dia045/README.md) — GroupBy, Join, Any/All, First/Single.
+- [Dia 046 — Métodos de extensão](Dia046/README.md) — Crie extensões úteis para string.
+- [Dia 047 — Nullability](Dia047/README.md) — Tipos anuláveis, ??, ?. e boas práticas.
+- [Dia 048 — Pattern matching](Dia048/README.md) — is, switch patterns e when.
+- [Dia 049 — Params/nomeados](Dia049/README.md) — APIs mais amigáveis com params e nomes.
+- [Dia 050 — Recursão](Dia050/README.md) — Fatorial e Fibonacci com cuidados.
+- [Dia 051 — Complexidade](Dia051/README.md) — Noções de O(1), O(n), O(n log n).
+- [Dia 052 — Testes unitários](Dia052/README.md) — Primeiro teste com xUnit.
+- [Dia 053 — Mini TDD](Dia053/README.md) — Teste antes do código (calculadora).
+- [Dia 054 — DI](Dia054/README.md) — Injeção de dependência em console.
+- [Dia 055 — Logging](Dia055/README.md) — Microsoft.Extensions.Logging em console.
+- [Dia 056 — Configurações](Dia056/README.md) — appsettings.json e options pattern.
+- [Dia 057 — Async/await I](Dia057/README.md) — Task, await e atrasos simulados.
+- [Dia 058 — Async/await II](Dia058/README.md) — WhenAll e cancelamento.
+- [Dia 059 — HTTP GET/POST](Dia059/README.md) — HttpClient em API pública.
+- [Dia 060 — Resiliência HTTP](Dia060/README.md) — Retry simples e timeout.
+- [Dia 061 — Arquitetura camadas](Dia061/README.md) — Domínio, infra e UI em console.
+- [Dia 062 — Regras de domínio](Dia062/README.md) — Validações e exceptions específicas.
+- [Dia 063 — DTO ↔ Entidade](Dia063/README.md) — Mapeamento manual.
+- [Dia 064 — LINQ em domínio](Dia064/README.md) — Consultas em listas de pedidos.
+- [Dia 065 — Delegates/eventos](Dia065/README.md) — Notificar mudança de estoque.
+- [Dia 066 — CSV](Dia066/README.md) — Parse e export de CSV simples.
+- [Dia 067 — Cultura pt-BR](Dia067/README.md) — Formatar números, datas, moedas.
+- [Dia 068 — Exceções custom](Dia068/README.md) — Crie e use exceptions próprias.
+- [Dia 069 — Stopwatch](Dia069/README.md) — Medição de desempenho.
+- [Dia 070 — Memória e GC](Dia070/README.md) — IDisposable e escopo.
+- [Dia 071 — Span/Memory](Dia071/README.md) — Texto com menos alocação.
+- [Dia 072 — Members com seta](Dia072/README.md) — Expression-bodied members.
+- [Dia 073 — Operadores modernos](Dia073/README.md) — ??=, range e indexadores.
+- [Dia 074 — Reflection básico](Dia074/README.md) — Listar propriedades de objeto.
+- [Dia 075 — Atributos](Dia075/README.md) — Criar atributo e ler via reflection.
+- [Dia 076 — Mini-CLI](Dia076/README.md) — Interpretar comandos do usuário.
+- [Dia 077 — Hash de senha](Dia077/README.md) — SHA256 com sal.
+- [Dia 078 — Segredos](Dia078/README.md) — Variáveis de ambiente.
+- [Dia 079 — NuGet](Dia079/README.md) — Instalar e usar pacote externo.
+- [Dia 080 — Solução multi-proj](Dia080/README.md) — Organizar e referenciar projetos.
+- [Dia 081 — EF Core I](Dia081/README.md) — DbContext em memória e entidades.
+- [Dia 082 — EF Core II](Dia082/README.md) — Consultas e relacionamentos.
+- [Dia 083 — EF Core III](Dia083/README.md) — Migrations e SQLite local.
+- [Dia 084 — Minimal API I](Dia084/README.md) — API de tarefas (GET/POST).
+- [Dia 085 — Minimal API II](Dia085/README.md) — Validação, filtros e status.
+- [Dia 086 — Controllers](Dia086/README.md) — CRUD com ControllerBase.
+- [Dia 087 — Middleware](Dia087/README.md) — Pipeline e middleware custom.
+- [Dia 088 — JWT básico](Dia088/README.md) — Proteger endpoints locais.
+- [Dia 089 — Swagger](Dia089/README.md) — OpenAPI e contratos.
+- [Dia 090 — Perfis execução](Dia090/README.md) — Publicação local de API/console.
+- [Dia 091 — Visão clean arch](Dia091/README.md) — Camadas e casos de uso.
+- [Dia 092 — Domain events](Dia092/README.md) — Disparar e tratar eventos.
+- [Dia 093 — AutoMapper](Dia093/README.md) — Mapeamento automático básico.
+- [Dia 094 — FluentValidation](Dia094/README.md) — Regras de entrada.
+- [Dia 095 — Health checks](Dia095/README.md) — Checagens de aplicação.
+- [Dia 096 — Observabilidade](Dia096/README.md) — Logs estruturados e correlação.
+- [Dia 097 — Testes integração](Dia097/README.md) — WebApplicationFactory.
+- [Dia 098 — Publicar single-file](Dia098/README.md) — API em arquivo único.
+- [Dia 099 — Projeto final console](Dia099/README.md) — Mini-estoque com persistência.
+- [Dia 100 — Projeto final API](Dia100/README.md) — Checklist de boas práticas.

@@ -1,12 +1,16 @@
-# Dia 070
+# Dia 070 — Memória e GC
 
-- Enunciado: (será preenchido quando for solicitado o exercício do dia)
+- Enunciado: IDisposable e escopo.
 - Objetivos:
-  - (listar objetivos)
+  - Compreender o porquê do código e praticar passo a passo.
+  - Consolidar o tópico do dia com exemplo funcional.
 - Passo a passo:
-  - (instruções passo a passo)
+  - Leia o enunciado e planeje o que o programa precisa fazer.
+  - Edite Dia070/Dia070/Program.cs implementando a solução.
+  - Rode com: dotnet run
 - Desafio extra:
-  - (desafio para fixação)
+  - Extenda o exercício com uma pequena variação proposta por você.
 
 Como executar:
+- cd Dia070/Dia070
 - dotnet run

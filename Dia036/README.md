@@ -1,12 +1,16 @@
-# Dia 036
+# Dia 036 — Dictionary
 
-- Enunciado: (será preenchido quando for solicitado o exercício do dia)
+- Enunciado: Agenda telefônica com chave/valor.
 - Objetivos:
-  - (listar objetivos)
+  - Compreender o porquê do código e praticar passo a passo.
+  - Consolidar o tópico do dia com exemplo funcional.
 - Passo a passo:
-  - (instruções passo a passo)
+  - Leia o enunciado e planeje o que o programa precisa fazer.
+  - Edite Dia036/Dia036/Program.cs implementando a solução.
+  - Rode com: dotnet run
 - Desafio extra:
-  - (desafio para fixação)
+  - Extenda o exercício com uma pequena variação proposta por você.
 
 Como executar:
+- cd Dia036/Dia036
 - dotnet run

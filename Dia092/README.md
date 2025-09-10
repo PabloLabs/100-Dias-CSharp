@@ -1,12 +1,16 @@
-# Dia 092
+# Dia 092 — Domain events
 
-- Enunciado: (será preenchido quando for solicitado o exercício do dia)
+- Enunciado: Disparar e tratar eventos.
 - Objetivos:
-  - (listar objetivos)
+  - Compreender o porquê do código e praticar passo a passo.
+  - Consolidar o tópico do dia com exemplo funcional.
 - Passo a passo:
-  - (instruções passo a passo)
+  - Leia o enunciado e planeje o que o programa precisa fazer.
+  - Edite Dia092/Dia092/Program.cs implementando a solução.
+  - Rode com: dotnet run
 - Desafio extra:
-  - (desafio para fixação)
+  - Extenda o exercício com uma pequena variação proposta por você.
 
 Como executar:
+- cd Dia092/Dia092
 - dotnet run

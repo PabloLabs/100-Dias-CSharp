@@ -1,12 +1,16 @@
-# Dia 072
+# Dia 072 — Members com seta
 
-- Enunciado: (será preenchido quando for solicitado o exercício do dia)
+- Enunciado: Expression-bodied members.
 - Objetivos:
-  - (listar objetivos)
+  - Compreender o porquê do código e praticar passo a passo.
+  - Consolidar o tópico do dia com exemplo funcional.
 - Passo a passo:
-  - (instruções passo a passo)
+  - Leia o enunciado e planeje o que o programa precisa fazer.
+  - Edite Dia072/Dia072/Program.cs implementando a solução.
+  - Rode com: dotnet run
 - Desafio extra:
-  - (desafio para fixação)
+  - Extenda o exercício com uma pequena variação proposta por você.
 
 Como executar:
+- cd Dia072/Dia072
 - dotnet run

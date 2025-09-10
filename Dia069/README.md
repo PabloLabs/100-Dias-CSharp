@@ -1,12 +1,16 @@
-# Dia 069
+# Dia 069 — Stopwatch
 
-- Enunciado: (será preenchido quando for solicitado o exercício do dia)
+- Enunciado: Medição de desempenho.
 - Objetivos:
-  - (listar objetivos)
+  - Compreender o porquê do código e praticar passo a passo.
+  - Consolidar o tópico do dia com exemplo funcional.
 - Passo a passo:
-  - (instruções passo a passo)
+  - Leia o enunciado e planeje o que o programa precisa fazer.
+  - Edite Dia069/Dia069/Program.cs implementando a solução.
+  - Rode com: dotnet run
 - Desafio extra:
-  - (desafio para fixação)
+  - Extenda o exercício com uma pequena variação proposta por você.
 
 Como executar:
+- cd Dia069/Dia069
 - dotnet run

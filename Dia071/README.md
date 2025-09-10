@@ -1,12 +1,16 @@
-# Dia 071
+# Dia 071 — Span/Memory
 
-- Enunciado: (será preenchido quando for solicitado o exercício do dia)
+- Enunciado: Texto com menos alocação.
 - Objetivos:
-  - (listar objetivos)
+  - Compreender o porquê do código e praticar passo a passo.
+  - Consolidar o tópico do dia com exemplo funcional.
 - Passo a passo:
-  - (instruções passo a passo)
+  - Leia o enunciado e planeje o que o programa precisa fazer.
+  - Edite Dia071/Dia071/Program.cs implementando a solução.
+  - Rode com: dotnet run
 - Desafio extra:
-  - (desafio para fixação)
+  - Extenda o exercício com uma pequena variação proposta por você.
 
 Como executar:
+- cd Dia071/Dia071
 - dotnet run
